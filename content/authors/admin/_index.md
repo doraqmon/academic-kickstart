@@ -58,3 +58,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+Dora is a graduate student currently studying data science at University of British Columbia. 
